@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharkzxo&label=Profile%20views&color=0e75b6&style=flat" alt="sharkzxo" /> </p>
 
-- 🔭 I’m currently working on [bloodhunt](https://discord.com/invite/3DgMBnEa6M)
+- 🔭 I’m currently working on [bloodhunt](https://discord.gg/AHwW5GBXnX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
